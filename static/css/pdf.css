@@ -1,10 +1,10 @@
 @font-face {
     font-family: normalFont;
-    src: url('css/times new roman.ttf');
+    src: url('times new roman.ttf');
 }
 @font-face {
     font-family: boldFont;
-    src: url('css/times new roman bold.ttf');
+    src: url('times new roman bold.ttf');
 }
 /*GENERATEPDF STYLE*/
 .receiptpdf h2 {
