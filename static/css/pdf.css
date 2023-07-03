@@ -246,3 +246,14 @@ button:hover {
     opacity: 0.8;
 }
 /*-------------------------------------------------*/
+@media screen and (max-width:640px){
+    .infopdf {
+        top: 22px;
+    }
+    .beneBody h1 {
+        margin-bottom: 1%;
+    }
+    .senerBody h2 {
+        margin-bottom: -0.9%;
+    }
+}
